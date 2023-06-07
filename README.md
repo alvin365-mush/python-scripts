@@ -1,6 +1,6 @@
 # python-scripts
 
-[cat-dog-imageClassifier.py] is an example of training a Convolutional Neural Network (CNN) for image classification using the Keras library with TensorFlow backend. Here's a summary of what is happening in the code:
+`cat-dog-imageClassifier.py` is an example of training a Convolutional Neural Network (CNN) for image classification using the Keras library with TensorFlow backend. Here's a summary of what is happening in the code:
 
 1. Mounting Google Drive: The code starts by mounting the Google Drive to access the image dataset stored in a specific folder.
 
